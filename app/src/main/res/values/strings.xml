@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseService</string>
+    <string name="Title">LOGIN</string>
+    <string name="email">Enter E-mail</string>
+    <string name="password">Password</string>
+    <string name="passhint">Enter Password</string>
+    <string name="login">Log in</string>
+</resources>
